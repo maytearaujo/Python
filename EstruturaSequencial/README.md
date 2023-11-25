@@ -1,7 +1,4 @@
-# Lista De Exercicios
-<a href="https://wiki.python.org.br/ListaDeExercicios">Python Brasil</a>
-
-## Estrutura Sequencial
+# Estrutura Sequencial
 <ol>
     <li>Faça um Programa que mostre a mensagem "Alo mundo" na tela.</li>
     <li>Faça um Programa que peça um número e então mostre a mensagem O número informado foi [número].</li>
