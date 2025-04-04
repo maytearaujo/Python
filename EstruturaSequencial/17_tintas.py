@@ -28,7 +28,7 @@ else:
         
         preco18 = latas18 * 80
 
-        latas3_6 = litrosNecessarios / 3.6
+        latas3_6 = resto / 3.6
         preco3_6 = latas3_6 * 25
 
         precoTotal = preco18 + preco3_6;
